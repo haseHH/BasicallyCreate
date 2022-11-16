@@ -2,6 +2,8 @@
 
 A Minecraft 1.19 Forge Modpack that includes [Create](https://www.curseforge.com/minecraft/mc-mods/create) and not much else.
 
+I wanted to play with Create in a vanilla environment, and added some informational and performance mods.
+
 ## Included Mods
 
 This pack includes these mods:
@@ -13,3 +15,7 @@ This pack includes these mods:
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) by [Jaredlll08](https://www.curseforge.com/members/jaredlll08)
 
 ...as well as some dependencies.
+
+### Image Credit
+
+The Create logo was taken from the [Create GitHub Repository](https://github.com/Creators-of-Create/Create) in accordance with the MIT license.
