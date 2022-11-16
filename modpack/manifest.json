@@ -14,5 +14,57 @@
   "version": "0.0.1",
   "author": "haseHH",
   "name": "BasicallyCreate",
-  "files": []
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 4087658,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 240630,
+      "fileID": 3951643,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3950216,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 328085,
+      "fileID": 4011414,
+      "required": true,
+      "__meta": {
+        "name": "Create"
+      }
+    },
+    {
+      "projectID": 455982,
+      "fileID": 4090703,
+      "required": true,
+      "__meta": {
+        "name": "WTHIT Forge Edition",
+        "dependencies": [
+          615134
+        ]
+      }
+    },
+    {
+      "projectID": 615134,
+      "fileID": 4073854,
+      "required": true,
+      "__meta": {
+        "name": "bad packets"
+      }
+    }
+  ]
 }
