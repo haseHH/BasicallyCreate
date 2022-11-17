@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        // pax program files
+        "pax": true,
+        "pax.exe": true,
+        "libssl*.dll": true,
+        "libcrypto*.dll": true,
+        "cacert.pem": true
+    }
+}
