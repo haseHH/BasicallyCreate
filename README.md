@@ -25,6 +25,4 @@ This pack includes the following mods, as well as some dependencies:
 
 ### Credit Where Credit Is Due
 
-The Create logo was taken from the [Create GitHub Repository](https://github.com/Creators-of-Create/Create) in accordance with the MIT license.
-
 Made with the help of the [📦 PAX modpack manager](https://github.com/froehlichA/pax).
