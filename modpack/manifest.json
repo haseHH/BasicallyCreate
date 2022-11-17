@@ -32,11 +32,58 @@
       }
     },
     {
+      "projectID": 248787,
+      "fileID": 3872808,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin"
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 3950216,
       "required": true,
       "__meta": {
         "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 267193,
+      "fileID": 4087389,
+      "required": true,
+      "__meta": {
+        "name": "Chunk-Pregenerator"
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 4036338,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 288885,
+      "fileID": 4029996,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 299540,
+      "fileID": 4028348,
+      "required": true,
+      "__meta": {
+        "name": "FastFurnace",
+        "dependencies": [
+          283644
+        ]
       }
     },
     {
@@ -48,6 +95,14 @@
       }
     },
     {
+      "projectID": 429235,
+      "fileID": 4073783,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Forge)"
+      }
+    },
+    {
       "projectID": 455982,
       "fileID": 4090703,
       "required": true,
@@ -56,6 +111,14 @@
         "dependencies": [
           615134
         ]
+      }
+    },
+    {
+      "projectID": 460819,
+      "fileID": 3831644,
+      "required": true,
+      "__meta": {
+        "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]"
       }
     },
     {
