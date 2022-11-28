@@ -2,7 +2,7 @@
 
 A Minecraft 1.19 Forge Modpack that includes [Create](https://www.curseforge.com/minecraft/mc-mods/create) and not much else.
 
-I wanted to play with Create in a vanilla environment, and added some informational and performance mods.
+I wanted to play with Create in a mostly vanilla environment, and added some informational and performance mods. To keep the terrain interesting without adding new blocks, I also added Terralith.
 
 ## Included Mods
 
@@ -10,6 +10,7 @@ This pack includes the following mods, as well as some dependencies:
 
 * Additonal Content:
   * [Create](https://www.curseforge.com/minecraft/mc-mods/create) by [simibubi](https://www.curseforge.com/members/simibubi)
+  * [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) by [Starmute](https://www.curseforge.com/members/starmute)
 * Informational:
   * [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) by [mezz](https://www.curseforge.com/members/mezz)
   * [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by [way2muchnoise](https://www.curseforge.com/members/way2muchnoise)
