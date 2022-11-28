@@ -25,7 +25,7 @@
     },
     {
       "projectID": 240630,
-      "fileID": 3951643,
+      "fileID": 4092965,
       "required": true,
       "__meta": {
         "name": "Just Enough Resources (JER)"
@@ -96,7 +96,7 @@
     },
     {
       "projectID": 429235,
-      "fileID": 4073783,
+      "fileID": 4117906,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Forge)"
