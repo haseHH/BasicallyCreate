@@ -24,14 +24,6 @@
       }
     },
     {
-      "projectID": 240630,
-      "fileID": 4092965,
-      "required": true,
-      "__meta": {
-        "name": "Just Enough Resources (JER)"
-      }
-    },
-    {
       "projectID": 248787,
       "fileID": 3872808,
       "required": true,

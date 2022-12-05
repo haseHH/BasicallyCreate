@@ -13,7 +13,6 @@ This pack includes the following mods, as well as some dependencies:
   * [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) by [Starmute](https://www.curseforge.com/members/starmute)
 * Informational:
   * [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) by [mezz](https://www.curseforge.com/members/mezz)
-  * [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by [way2muchnoise](https://www.curseforge.com/members/way2muchnoise)
   * [What The Hell Is That (WTHIT)](https://www.curseforge.com/minecraft/mc-mods/wthit-forge) by [badasintended](https://www.curseforge.com/members/badasintended)
   * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) by [squeek502](https://www.curseforge.com/members/squeek502)
 * Performance:
