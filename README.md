@@ -22,6 +22,7 @@ This pack includes the following mods, as well as some dependencies:
   * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) by [malte0811](https://www.curseforge.com/members/malte0811)
 * Administrative:
   * [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) by [Speiger](https://www.curseforge.com/members/speiger)
+  * [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) by [rdvdev2](https://www.curseforge.com/members/rdvdev2) and [Corgi_Taco](https://www.curseforge.com/members/corgi_taco)
 
 ### Credit Where Credit Is Due
 
