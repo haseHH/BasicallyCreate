@@ -16,6 +16,7 @@ This pack includes the following mods, as well as some dependencies:
   * [What The Hell Is That (WTHIT)](https://www.curseforge.com/minecraft/mc-mods/wthit-forge) by [badasintended](https://www.curseforge.com/members/badasintended)
   * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) by [squeek502](https://www.curseforge.com/members/squeek502)
 * Performance:
+  * [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) by [Asek3](https://www.curseforge.com/members/asek3)
   * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) by [Jaredlll08](https://www.curseforge.com/members/jaredlll08)
   * [Lazy DataFixerUpper](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) by [Corgi_Taco](https://www.curseforge.com/members/corgi_taco)
   * [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) and [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) by [Shadows_of_Fire](https://www.curseforge.com/members/shadows_of_fire)
