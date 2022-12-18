@@ -23,7 +23,7 @@ This pack includes the following mods, as well as some dependencies:
   * [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
   * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 * Administrative:
-  * [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
+  * [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
   * [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 
 ### Credit Where Credit Is Due

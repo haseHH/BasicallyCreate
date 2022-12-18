@@ -40,14 +40,6 @@
       }
     },
     {
-      "projectID": 267193,
-      "fileID": 4087389,
-      "required": true,
-      "__meta": {
-        "name": "Chunk-Pregenerator"
-      }
-    },
-    {
       "projectID": 283644,
       "fileID": 4036338,
       "required": true,
@@ -119,6 +111,14 @@
       "required": true,
       "__meta": {
         "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]"
+      }
+    },
+    {
+      "projectID": 485681,
+      "fileID": 3970964,
+      "required": true,
+      "__meta": {
+        "name": "Chunky (Forge)"
       }
     },
     {
