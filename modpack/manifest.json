@@ -71,6 +71,14 @@
       }
     },
     {
+      "projectID": 317134,
+      "fileID": 3950165,
+      "required": true,
+      "__meta": {
+        "name": "Global Packs"
+      }
+    },
+    {
       "projectID": 328085,
       "fileID": 4174330,
       "required": true,

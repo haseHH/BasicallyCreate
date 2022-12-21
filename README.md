@@ -32,6 +32,7 @@ This pack includes the following mods, as well as some dependencies:
 
 * [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
 * [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
+* [Global Packs](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
 
 ## Credit Where Credit Is Due
 
