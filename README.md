@@ -34,6 +34,48 @@ This pack includes the following mods, as well as some dependencies:
 * [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 * [Global Packs](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
 
+## [Vanilla Tweaks](https://vanillatweaks.net/)
+
+### Resource Packs
+
+* NumberedHotbar
+* PingColorIndicator
+* AlternateEnchantGlint
+* LowerFire
+* LowerShield
+* VisualInfestedStoneItems
+* VisualWaxedCopperItems
+* StickyPistonSides
+* DirectionalHoppers
+* DirectionalDispensersDroppers
+* BetterObservers
+* BrewingGuide
+* GroovyLevers
+* VisualHoney
+* QuieterBats
+* QuieterRain
+* QuieterMinecarts
+* QuieterPistons
+* ShorterTallGrass
+* DifferentStems
+* HDShieldBanners
+* SplashXpBottle
+* AccurateSpyglass
+
+### Data Packs
+
+* afk display
+* coordinates hud
+* fast leaf decay
+* more mob heads
+* silence mobs
+* unlock all recipes
+* wandering trades
+
+### Crafting Tweaks
+
+* craftable bundles rabbit hide
+
 ## Credit Where Credit Is Due
 
 Made with the help of the [📦 PAX modpack manager](https://github.com/froehlichA/pax).
