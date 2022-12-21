@@ -18,6 +18,7 @@ This pack includes the following mods, as well as some dependencies:
 * [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 * [What The Hell Is That (WTHIT)](https://www.curseforge.com/minecraft/mc-mods/wthit-forge)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+* [Hive View](https://www.planetminecraft.com/data-pack/hive-view/) (Data Pack)
 
 ### Performance
 
